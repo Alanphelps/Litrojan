@@ -8,6 +8,7 @@ Lite User Interface for Trojan, an unidentifiable mechanism that helps you bypas
 - Put ``trojan.exe`` and ``config.json`` from Trojan core into the same folder
 - Run ``Litrojan.exe``
 - SOCKS5 Proxy Server should now started at \[Local Addr\]:\[Local Port\]
+- You are expected to understand how to configure SOCKS5 proxy with your favourite tools
 - Enjoy
 
 ### Requirements  
